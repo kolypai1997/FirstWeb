@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="css/style.css" />
+  <title>Tajam</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    rel="stylesheet" />
+</head>
+
+<body>
+  <header class="header">
+    <div class="container">
+      <div class="header__inner">
+        <div class="logo">
+          <div class="logo__icon">
+            <img src="img/images/logo.png" alt="logo" />
+          </div>
+          <div class="header__logo">tajam</div>
+        </div>
+        <nav class="nav">
+          <a class="nav__link" href="#">HOME</a>
+          <a class="nav__link" href="#">ABOUT</a>
+          <a class="nav__link" href="#">EXPERTISE</a>
+          <a class="nav__link" href="#">TEAMS</a>
+          <a class="nav__link" href="#">WORKS</a>
+          <a class="nav__link" href="#">PEOPLE SAY</a>
+          <a class="nav__link" href="#">CONTACT</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <div class="intro">
+    <div class="container">
+      <div class="intro__inner">
+        <h1 class="intro__title">We Are Awesome Creative Agency</h1>
+        <h2 class="intro__subtitle">
+          This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
+          velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum
+          auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+          Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
+          Morbi accumsan ipsum velit.
+        </h2>
+        <a class="btn" href="#">Learn more</a>
+      </div>
+    </div>
+  </div>
+  <section class="section">
+    <div class="container__section">
+      <div class="section__logo">
+        <img src="img/images/leftlogo_03.png" alt="left logo" />
+      </div>
+      <div class="section__header">
+        <h2 class="section__title">OUR STORY</h2>
+        <div class="section__text">
+          <p>
+            This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
+            velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum
+            auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+            Duis sed odio sit amet nibh vulputate cursus
+          </p>
+          <p>
+            Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor
+            a ornare odio. Sed non mauris vitae erat consequat auctor eu in
+            elit. Class aptent taciti sociosqu ad litora torquent per conubia
+            nostra, per inceptos himenaeos.
+          </p>
+          <a class="btn" href="#">Learn more</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="section__back">
+      <div class="section__playicon">
+        <img src="img/images/play_icon.png" alt="playicon" />
+      </div>
+      <div class="section__textplayicon">watch our story</div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="section4">
+      <div class="section4__title">
+        <h2 class="expertise__title">EXPERTISE</h2>
+        <h3 class="expertise__subtitle">
+          Lorem ipsum dolor sit amet proin gravida nibh vel velit
+        </h3>
+      </div>
+      <div class="section__images__top">
+        <div class="img_top_left">
+          <img src="img/images/items_t_l.png" alt="web design" />
+
+          <div class="title__images">WEB DESIGN & DEVELOPMENT</div>
+          <div class="subtitle__images">
+            This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
+            velit auctor aliquet Aenean.
+          </div>
+        </div>
+        <div class="img_top_center">
+          <img src="img/images/items_t_c.png" alt="branding" />
+          <div class="title__images">BRANDING IDENTITY</div>
+          <div class="subtitle__images">
+            This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
+            velit auctor aliquet Aenean.
+          </div>
+        </div>
+        <div class="img_top_right">
+          <img src="img/images/items_t_r.png" alt="mobile app" />
+          <div class="title__images">MOBILE APP</div>
+          <div class="subtitle__images">
+            This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
+            velit auctor aliquet Aenean.
+          </div>
+        </div>
+      </div>
+      <hr class="line" />
+      <div class="section__images__bot">
+
+        <div class="img_bot_left">
+          <img src="img/images/items_b_l.png" alt="search engine" />
+          <div class="title__images">SEARCH ENGINE OPTIMIZATION</div>
+          <div class="subtitle__images">
+            This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
+            velit auctor aliquet Aenean.
+          </div>
+        </div>
+        <div class="img_bot_center">
+          <img src="img/images/items_b_c.png" alt="game development" />
+          <div class="title__images">GAME DEVELOPMENT</div>
+          <div class="subtitle__images">
+            This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
+            velit auctor aliquet Aenean.
+          </div>
+        </div>
+        <div class="img_bot_right">
+          <img src="img/images/items_b_r.png" alt="made with love" />
+
+          <div class="title__images">MADE WITH LOVE</div>
+          <div class="subtitle__images">
+            This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
+            velit auctor aliquet Aenean.
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="section5">
+      <div class="section5__title">
+        <h2 class="meet__title">
+          MEET OUR AMAZING TEAM
+        </h2>
+        <h3 class="meet__subtitle">
+          Lorem ipsum dolor sit amet proin gravida nibh vel velit
+        </h3>
+      </div>
+      <div class="section5_images">
+        <div class="meet__img1">
+          <img src="img/images/meet_img1.png" alt="semf ucuk">
+          <div class="borders">
+            <h3 class="meet__img_title">SEMF UCUK</h3>
+            <h4 class="meet__img__subtitle"> CEO & FOUNDER</h4>
+          </div>
+        </div>
+        <div class="meet__img2">
+          <img src="img/images/meet_img1.png" alt="dick adalin">
+          <div class="borders">
+            <h3 class="meet__img_title">DIK ADALIN</h3>
+            <h4 class="meet__img__subtitle"> ENGINEERING</h4>
+          </div>
+        </div>
+        <div class="meet__img3">
+          <img src="img/images/meet_img1.png" alt="jeng kol">
+          <div class="borders">
+            <h3 class="meet__img_title">JENG KOL</h3>
+            <h4 class="meet__img__subtitle"> DESIGNER</h4>
+          </div>
+        </div>
+        <div class="meet__img4">
+          <img src="img/images/meet_img1.png" alt="pet romac">
+          <div class="borders">
+            <h3 class="meet__img_title">PET ROMAK</h3>
+            <h4 class="meet__img__subtitle"> MARKETING</h4>
+          </div>
+        </div>
+
+      </div>
+      <div class="meet__bot">
+        <div class="text__meetbot">Become part of our dream team, let’s join us ! </div>
+        <a class="btn" href="#">We are Hiring</a>
+      </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="section6">
+      <div class="top__text__sec6">
+        <div class="our_works">
+          our works
+        </div>
+        <div class="all_proj">
+          See All Project in dribbble
+          <img src="img/images/projindribbble.png" alt="see all proj in dribbble">
+        </div>
+      </div>
+      <div class="images__sec6">
+        <img class="our_works_top" src="img/images/our_works_top.png" alt="top img" width="100%">
+        <img class="our_works_top" src="img/images/our_works_bot.png" alt="bot img" width="100%">
+      </div>
+      <div class="sec6__bot">
+        <a class="btn" href="#">Load more</a>
+      </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="section7">
+      <div class="section7__text">
+        <h2 class="quatation">“</h2>
+        <h3 class="sec7_subtitle_text">
+          This is Photoshop's version of Lorem Ipsum.
+          Proin gravida nibh vel velit auctor aliquet.
+          Aenean sollicitudin, lorem quis bibendum auctor, nisi elit
+          consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio
+          sit amet nibh vulputate cursus a sit amet mauris.
+          Morbi accumsan ipsum velit. Nam nec tellus a odio
+          tincidunt auctor a ornare odio. Sed non mauris vitae
+          erat consequat auctor eu in elit.
+        </h3>
+      </div>
+      <div class="section7_sub_text">
+        <h4 class="jane_galadr">JANE GALADRIEL</h4>
+        <h5 class="ceo_tengk">CEO TENGKUREP</h5>
+      </div>
+      <div class="image_sec7">
+        <img src="img/images/sec7_1.png" alt="one">
+        <img src="img/images/sec7_2.png" alt="two">
+        <img src="img/images/sec7_3active.png" alt="three">
+        <img src="img/images/sec7_4.png" alt="four">
+        <img src="img/images/sec7_5.png" alt="five">
+      </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="section8">
+      <div class="section8__title">
+        <h2 class="give_us">
+          GIVE US A GOOD NEWS
+        </h2>
+      </div>
+      <div class="section8__froms">
+        <form class="form_contacts">
+			<p><input class="input__text" type="text" placeholder="Name" size="50"></p>
+			<p><input class="input__text" type="email" placeholder="Email" size="50"></p>
+			<p><input class="input__text" type="text" placeholder="Subject" size="50"></p>
+			<p><textarea class="text__area_concat"  rows="10" cols="40" placeholder="Your Message" >  </textarea></p>
+			<p><input type="submit" value="SUBMIT" class="btn_submit"></p>
+		</form>
+      </div>
+    </div>
+  </section>
+  <footer class="footer__1">
+	<div class="content__foot">
+		<div class="footer_left">
+			<img src="img/images/logo_foot.png" alt="logo">
+		</div>
+	</div>
+  <footer>
+</body>
+
+</html>
